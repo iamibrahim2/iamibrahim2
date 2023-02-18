@@ -33,11 +33,6 @@ I currently have mirror/leech group on Telegram
 
 -   [WAIFU](https://telegram.dog/lazyyyyyy_bot)
 
-
-<br>
-<br>
-<br>
-
 # About Me:
 -  I am from Pakistan.
 -  Currently a 2nd year student.
