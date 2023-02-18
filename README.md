@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center">
+   <a href="https://github.com/iamibrahim2">
+    <img src="https://telegra.ph/file/3b7ec1308edb07983efef.png" width="800"> </a>
+    </p>
 
-<!--
-**iamibrahim2/iamibrahim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Ibrahim;Welcome+to+my+GitHub"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# About Me:
+-  I am from Pakistan.
+-  Currently a 2nd year student.
+-  Leaning old programing Language. 
+-  I like editing and fix old repos.
+
+
+
+
+  # How to reach me:
+[![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923229931076)
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/hater786) <br>
+
+
+#### If you have any queries or suggestions then you can contact me i will be happy to respond. 
+<br>
