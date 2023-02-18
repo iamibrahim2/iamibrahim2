@@ -49,7 +49,7 @@ I currently have mirror/leech group on Telegram
 
   # How to reach me:
 [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923229931076)
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/hater786) <br>
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://telegram.dog/hater786) <br>
 
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
