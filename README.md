@@ -13,12 +13,19 @@
 </p>
 </div>
 
-# My Group
+# About projects 
 
-I currently have mirror bot on Telegram
+I currently have mirror/leech  on Telegram
+
+# Telegram channel
+
 -   [13xx Community](https://telegram.dog/real13xx)
 
+# Mirror/leech Group
+
 -   [Group](https://telegram.dog/+JmXToG-2x_xmZWM0)
+
+# Bots
 
 -   [MIKU](https://telegram.dog/demonnnnnslayer_bot)
 
