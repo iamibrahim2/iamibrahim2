@@ -36,8 +36,8 @@ I currently have mirror/leech group on Telegram
 # About Me:
 -  I am from Pakistan.
 -  Currently a 2nd year student.
--  Leaning old programing Language. 
--  I like editing and fix old repos.
+-  Learning old programing Language. 
+-  I like editing and fixing old GitHub repos.
 
 
 
