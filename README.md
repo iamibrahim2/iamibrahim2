@@ -15,7 +15,7 @@
 
 # About projects 
 
-I currently have mirror/leech  on Telegram
+I currently have mirror/leech group on Telegram
 
 # Telegram channel
 
